@@ -1,5 +1,7 @@
 # Flipkart-Ecommerce-Product-Categorization
 
+NOTE: LSTM (Notebook 1) was implemented before Naive Bayes (Notebook 2)
+
 ## Objective:
 
 We have been given an Ecommerce Flipkart Dataset with exactly 20,000 samples. It has 15 columns with a lot of information. Our aim is to consider “Description” for a product, analyze it and predict which category it might fall under. There are few categories which are do not qualify as valid product categories. We will also see how we will handle that.
